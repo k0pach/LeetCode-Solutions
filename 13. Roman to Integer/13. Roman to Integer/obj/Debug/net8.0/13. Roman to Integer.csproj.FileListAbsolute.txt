@@ -1,0 +1,14 @@
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.exe
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.deps.json
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.runtimeconfig.json
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.dll
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\bin\Debug\net8.0\13. Roman to Integer.pdb
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.AssemblyInfoInputs.cache
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.AssemblyInfo.cs
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.csproj.CoreCompileInputs.cache
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.dll
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\refint\13. Roman to Integer.dll
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.pdb
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\13. Roman to Integer.genruntimeconfig.cache
+Z:\Programming\Leetcode\13. Roman to Integer\13. Roman to Integer\obj\Debug\net8.0\ref\13. Roman to Integer.dll
